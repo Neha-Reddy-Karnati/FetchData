@@ -23,5 +23,5 @@ View the list of items fetched from the API. \
 Scroll through the list to see all items. 
 
 ## Output
-![Output1](Output1.jpeg) \
-![Output2](Output2.jpeg)
+<img src="Output1.jpeg" alt="App Screenshot1" width="400" height="600"> \
+<img src="Output2.jpeg" alt="App Screenshot2" width="400" height="600">
